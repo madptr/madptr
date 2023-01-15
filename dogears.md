@@ -1,13 +1,13 @@
 
-## Blogs
-#### [Angelo Pesce](https://c0de517e.blogspot.com/)
-#### [Fluent {C++}](https://www.fluentcpp.com/)
-#### [Sutter's Mill](https://herbsutter.com/)
-#### [h/cpp hacking C++](https://hackingcpp.com/index.html) 
-#### [Alain Galvan](https://alain.xyz/blog)
-#### [Jason Ekstrand](https://www.jlekstrand.net/jason/blog/)
+# Blogs
+### [Angelo Pesce](https://c0de517e.blogspot.com/)
+### [Fluent {C++}](https://www.fluentcpp.com/)
+### [Sutter's Mill](https://herbsutter.com/)
+### [h/cpp hacking C++](https://hackingcpp.com/index.html) 
+### [Alain Galvan](https://alain.xyz/blog)
+### [Jason Ekstrand](https://www.jlekstrand.net/jason/blog/)
 _________ 
 
-## Tutorials 
-#### [Learn OpenGL](https://learnopengl.com)
-#### [Anton's OpenGL 4 Tutorials](https://antongerdelan.net/opengl)
+# Tutorials 
+### [Learn OpenGL](https://learnopengl.com)
+### [Anton's OpenGL 4 Tutorials](https://antongerdelan.net/opengl)
