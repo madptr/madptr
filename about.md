@@ -1,6 +1,7 @@
 ---
 title: "About"
 type: "page"
+time: false
 ---
 
 Hi there !

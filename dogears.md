@@ -1,4 +1,8 @@
-
+---
+title: "Dog ears"
+type: "page"
+time: false
+---
 # Blogs
 ### [Angelo Pesce](https://c0de517e.blogspot.com/)
 ### [Fluent {C++}](https://www.fluentcpp.com/)
