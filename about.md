@@ -1,8 +1,9 @@
-+++
-title = "About"
-+++
+---
+title: "About"
+type: "page"
+---
 
-# Hi there !
+Hi there !
 
 My name is Abilash Joseph Rajarethinam.
 
