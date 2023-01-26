@@ -54,6 +54,7 @@ class Monster : public Actor {
     // local/unique members and methods
 };
 ```
+## Grouping based on common functionality
 But from where the need arises that we should refer to all objects using a single array variable? If they are all going to behave different, why should we do this at all?
 
 In a game, almost all the objects needs to do these two things much frequently. Almost all the objects should be calling their `update()` and `render()` method. This is a single behavior that is common for almost all the data types in a game. It is the single factor that unites all data types. Also, it will be prety hard to keep adding a separate update and render call for every single type we add to our game. Thus, if we can refer to everything using a single array, or list we don't have to be reminded of it whenever we add a new element to the game.
@@ -101,7 +102,7 @@ class Rover : public Car {
     // local/unique members and methods
 };
 ```
-*Note: Here `Fiat` and `Rover` are also a type of `Actor` because they inherit the `Actor`'s properties via `Car` which is derived from the `Actor`.*
+>Here `Fiat` and `Rover` are also a type of `Actor` because they inherit the `Actor`'s properties via `Car` which is derived from the `Actor`.
 
 Since all the cars in our game are going to have 4 doors, let us consider we have implemented it in the base type's scope, and it just returns `4`. 
 Now, we got to introduce a sports car into the game. 
@@ -112,9 +113,9 @@ Now, we have a few options ahead.
 2. Move the `getNumDoors()` function from the base class to the derived classes.
 3. Introduce virtual function.
 
-*Note: If you feel **option 1** works perfectly fine, it must be because of my bad example. Handling one integer is easy. Assume the integer is a placeholder that presents a problem bigger than an integer.*
+>If you feel **option 1** works perfectly fine, it must be because of my bad example. Handling one integer is easy. Assume the integer is a placeholder that presents a problem bigger than an integer.
 
-While the first two methods are bound to work fine, it demands a lot of code refactorings. This is where the **virtual function** comes to the rescue. 
+While the first two methods are bound to work fine, it demands a lot of code refactorings. This is where a **virtual function** comes to the rescue. 
 
 ```c++
 class Car : public Actor {

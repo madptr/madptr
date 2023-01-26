@@ -10,6 +10,7 @@ time: false
 ### [h/cpp hacking C++](https://hackingcpp.com/index.html) 
 ### [Alain Galvan](https://alain.xyz/blog)
 ### [Jason Ekstrand](https://www.jlekstrand.net/jason/blog/)
+### [Bob - GameProgrammingPaterns.com](http://journal.stuffwithstuff.com)
 _________ 
 
 # Tutorials 
