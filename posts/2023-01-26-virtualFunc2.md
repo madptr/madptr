@@ -2,7 +2,8 @@
 title: "Virtual Functions II"
 date: 2023-01-26T13:13:10+05:30
 description: A dive into abstract types
-tags: [CPP, virtual function, programming]
+tags: [CPP, virtual function]
+categories: [Book]
 ---
 
 In the previous [post]({{< ref "2023-01-22-virtualFunc1" >}}) we saw one basic use-case of a **virtual function**. Here is another awesome use case involving the **virtual** keyword.

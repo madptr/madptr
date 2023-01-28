@@ -2,7 +2,8 @@
 title: "Virtual Functions I"
 date: 2023-01-22T16:45:51+05:30
 description: A dive into virtual functions
-tags: [CPP, virtual function, programming]
+tags: [CPP, virtual function]
+categories: [programming]
 ---
 
 Have you ever come across the keyword `virutal` in a CPP class and felt that you haven't fully understood it yet?
