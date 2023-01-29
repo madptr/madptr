@@ -4,7 +4,7 @@ type: "page"
 time: false
 ---
 
-Hi there !
+Hi there!
 
 My name is Abilash Joseph Rajarethinam.
 
