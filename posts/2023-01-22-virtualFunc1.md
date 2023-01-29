@@ -5,8 +5,8 @@ description: A dive into virtual functions
 tags: [CPP, virtual function, programming]
 ---
 
-Have you ever come across the keyword `virutal` in a CPP class and felt that you haven't fully understood it yet?
-In this post, I'll try to explain one basic use case where `virtual` really helps us. 
+Have you ever come across the keyword `virtual` in a CPP class and felt that you haven't fully understood it yet?
+In this post, I'll try to explain one basic use case where `virtual` helps us. 
 ## Why do we need different types?
 Let's understand why we need to create different types. The need for different types arises because of the uniqueness of their behavior itself. If such differences can be controlled or managed by using a few variables we can refrain from creating a new type. 
 
@@ -151,6 +151,6 @@ void main() {
     }
 }
 ```
-As the function `getNumDoors()` has been changed to `virtual` function, the compiler is forced to link this call to the definition of a derived type if exists. This is a very useful feature at times like this. 
+As the function `getNumDoors()` has been changed to a `virtual` function, the compiler is forced to link this call to the definition of a derived type if exists. This is a very useful feature at times like this. 
 
-To be continued...
+[To be continued...]({{< ref "2023-01-26-virtualFunc2" >}})
