@@ -2,16 +2,17 @@
 title: "Online Presence"
 date: 2023-01-29T23:30:01+05:30
 description: The story behind setting up this website!
+tags: ["rant"]
 ---
 
 I've tried multiple times to setup up a website. It has been a PITA for me every single time. There are multiple reasons for this. 
 
-The very first language I programmed was the BASIC programming language. 
-I remember me cycling with two other friends to a quite far place *3 Kilo meters approx, it was far for a 5th or 6th grade 'me'* to meet a guy, maybe a college graduate who had a computer at home with a color monitor *yes, we had only monochrome monitors at school*. That is the very first time I'm seeing a color monitor. I was awe-struck when I saw BASIC's graphics drawing colored circles and squares. The picture of a **pink circle** is etched in my brain and I'll take it to the grave with pleasure.
+The very first language I programmed was the BASIC programming language. I was in cloud nice I was in the group that was tasked with making a couple of demos for the science fair.
+I remember us cycling to a quite far place *3km approx, it was far for a 5th or 6th grade 'me'* to meet a guy, maybe a college graduate. I was mesmerized to see a computer with a color monitor *yes, we had only monochrome monitors at school*. That is the very first time I'm seeing a color monitor. I was awe-struck when I saw BASIC's graphics drawing colored circles and squares. The picture of a **pink circle** is etched in my brain and I'll take it to the grave with pleasure.
 We got some tips from him to create a graphics demo for our science fair.
 I vaguely remember creating multiple silly demos for a science fair in our [school](https://maryannschool.in/). Among the 5 or 6 demos we made, the two demos I remember are a Pac-man like character chasing a dot and a program that shows a billboard when there is lightning etc... 😆 ya *lighting*... why not? 
 
-The only thing I remember is, **it was hard**. I've no idea why the computer is doing what it is doing. The billboard was planned to be something else, but due to some reason, I had some flashing like effect that I couldn't get rid of. Due to time constraints and everything, I settled for a billboard and built a story around it with lighting and stuff... LOL. That Pac Man like thing was the satisfying one 😊
+The only thing I remember is, **it was hard**. I've no idea why the computer is doing what it is doing. The billboard was planned to be something else, but due to some reason, I had some flashing like effect that I couldn't get rid of. Due to time constraints and everything, I settled for it and built a story around it as a billboard with lighting and stuff... LOL. That Pac Man like thing was the satisfying one 😊
 
 Fast forward a few years, I was learning [VB6](https://en.wikipedia.org/wiki/Visual_Basic_(classic)) in a computer center next to my home. Then out of interest I went ahead and learned [C](https://en.wikipedia.org/wiki/C_(programming_language)) using [Turbo C++ IDE](https://en.wikipedia.org/wiki/Turbo_C%2B%2B). The point here is, I got used to the color coding and basic functionalities provided by these [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)s.
 
