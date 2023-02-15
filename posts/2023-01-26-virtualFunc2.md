@@ -163,4 +163,8 @@ Monster update
 ```
 Notice how the `update()` calls go to `Cyclops`'s method whereas all the `render()` call goes to the `Monster`. Our problem of passing messages to the neighboring elements is easily solved and our core game loop remains *fairly unaffected*. 
 
-To be continued ...
+[gist of example](https://gist.github.com/madptr/845008cdec91068e3b2caa200a53e02c#file-virtualfunc2-abstractclass-cpp)
+
+Was this useful? Let me know on [Twitter](https://twitter.com/madptr) or [Mastodon](https://mastodon.gamedev.place/@madptr)!
+
+[To be continued...]({{< ref "2023-02-15-virtualFunc3" >}})
