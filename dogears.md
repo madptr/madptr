@@ -20,7 +20,7 @@ time: false
 |[Dave Kilian blog](https://davekilian.com/index.html)| `ArtOfCode` `C++`
 _________ 
 
-## Various 
+## Various
 |||
 |-----|-----|
 |[Molecular Musings](https://blog.molecular-matters.com/2014/11/06/stateless-layered-multi-threaded-rendering-part-1/)| `Stateless Rendering API`
